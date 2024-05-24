@@ -79,8 +79,8 @@ h3 {
 
 <div class="container" >
     <h2>Welcome To </h2>
-    <h1><strong>2024 Desktop Based Working Platform</strong></h1>
-    <h3>Note: This is only a sample web template!!</h3>
+    <h1>Nyl Bryne's Laravel Project</h1>
+    <h3>Note: My Web Framework Workspace</h3>
 </div>
 
 </body>
